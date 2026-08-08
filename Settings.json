@@ -18,12 +18,12 @@
     },
     "screenshots": {
       "enabled": false,
-      "deathScreenshots": true,
-      "extractScreenshots": true,
-      "rareLootScreenshots": true,
-      "questScreenshots": true,
-      "bossKillScreenshots": true,
-      "achievementScreenshots": true
+      "deathScreenshots": false,
+      "extractScreenshots": false,
+      "rareLootScreenshots": false,
+      "questScreenshots": false,
+      "bossKillScreenshots": false,
+      "achievementScreenshots": false,
     },
     "filters": {
       "minimumRaidDuration": 60,
