@@ -17,7 +17,7 @@
       "minimumValue": 500000
     },
     "screenshots": {
-      "enabled": true,
+      "enabled": false,
       "deathScreenshots": true,
       "extractScreenshots": true,
       "rareLootScreenshots": true,
